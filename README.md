@@ -3,8 +3,6 @@
 This project is a **parallax scroll animation** built with **HTML, CSS, JavaScript, GSAP, and ScrollTrigger**.  
 As you scroll, dynamic scenes transition seamlessly: moving hills, shifting clouds, a sun path, flying birds and bats, and even a night sky with stars and falling meteors.  
 
----
-
 ## 🚀 Features
 - Smooth **parallax scrolling effect**
 - Multiple animated **scenes**:
@@ -14,8 +12,6 @@ As you scroll, dynamic scenes transition seamlessly: moving hills, shifting clou
 - **GSAP ScrollTrigger** for powerful scroll-based animations
 - Responsive layout with SVG graphics
 
----
-
 ## 🛠️ Technologies Used
 - **HTML5** (for structure and SVG graphics)
 - **CSS3** (styling, responsiveness)
@@ -23,23 +19,9 @@ As you scroll, dynamic scenes transition seamlessly: moving hills, shifting clou
 - **GSAP** (GreenSock Animation Platform)  
 - **GSAP ScrollTrigger plugin**
 
----
-
-## 📂 Project Structure
-Scroll-Animation/
-│── index.html # Main HTML file with SVG and scenes
-│── style.css # Styling and layout
-│── script.js # GSAP animations and scroll logic
-
-yaml
-Copy
-Edit
-
----
 
 ## ▶️ Usage
 1. Clone this repository:
-   ```bash
    git clone https://github.com/Anuskar123/Scroll-Animation.git
 Open index.html in your browser.
 
