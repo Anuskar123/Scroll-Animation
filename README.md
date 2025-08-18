@@ -23,6 +23,7 @@ As you scroll, dynamic scenes transition seamlessly: moving hills, shifting clou
 ## ▶️ Usage
 1. Clone this repository:
    git clone https://github.com/Anuskar123/Scroll-Animation.git
+
 Open index.html in your browser.
 
 Scroll down and watch the animation unfold!
